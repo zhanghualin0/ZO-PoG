@@ -1,0 +1,1827 @@
+the
+of
+and
+a
+to
+in
+for
+that
+is
+on
+-RRB
+-LRB
+as
+We
+of the
+with
+, and
+an
+The
+we
+by
+this
+from
+paper
+which
+system
+model
+are
+, we
+method
+]] and
+language
+be
+using
+approach
+In
+can
+This
+our
+in the
+data
+show
+based
+such
+]] for
+used
+it
+based on
+models
+word
+speech
+recognition
+algorithm
+translation
+on the
+In this paper
+]] to
+two
+results
+learning
+new
+information
+image
+such as
+or
+show that
+This paper
+can be
+to the
+present
+performance
+use
+proposed
+text
+problem
+methods
+analysis
+techniques
+for the
+systems
+have
+, which
+more
+task
+than
+statistical
+In this paper , we
+that the
+]] is
+parsing
+experiments
+classification
+tasks
+both
+features
+accuracy
+different
+training
+>> is
+corpus
+also
+>> for
+semantic
+natural
+in a
+has
+framework
+over
+>> in
+other
+]] in
+into
+Our
+retrieval
+on a
+these
+as a
+representation
+one
+knowledge
+words
+domain
+A
+been
+between
+images
+grammar
+at
+with the
+machine translation
+demonstrate
+natural language
+detection
+novel
+feature
+applications
+video
+set
+evaluation
+'s
+robust
+algorithms
+well
+trained
+]] , and
+with a
+process
+a new
+syntactic
+several
+multiple
+languages
+from the
+used to
+segmentation
+better
+their
+existing
+will
+processing
+not
+, such as
+to be
+modeling
+application
+English
+lexical
+space
+how
+>> , and
+significantly
+its
+It
+using a
+discourse
+use of
+problems
+corpora
+uses
+approaches
+>> with
+set of
+large
+including
+standard
+>> from
+sense
+parser
+high
+We show
+annotation
+time
+search
+outperforms
+of this
+input
+We present
+sentences
+quality
+motion
+automatic
+a novel
+of an
+but
+>> which
+that is
+provide
+estimation
+datasets
+paraphrases
+component
+alignment
+when
+structure
+only
+human
+face
+called
+structures
+simple
+sentence
+constraints
+combines
+[[ approach
+We describe
+>> based on
+work
+then
+research
+relations
+has been
+generation
+domains
+dictionary
+To
+>> by
+three
+error
+each
+scene
+rules
+by the
+automatically
+>> are
+number of
+many
+linguistic
+global
+context
+by a
+bilingual
+about
+NLP
+MT
+was
+first
+voice
+particular
+is to
+experimental
+classifiers
+all
+3D
+unsupervised
+understanding
+performance of
+directly
+visual
+predicting
+like
+-RSB
+-LSB
+which is
+generic
+We show that
+>> such as
+using the
+same
+level
+extraction
+compare
+based on a
+achieved
+while
+study
+stochastic
+real
+learned
+without
+prediction
+objects
+describes
+complex
+clustering
+adaptation
+]] are
+very
+single
+similarity
+regions
+optimization
+linear
+graph
+[[ it
+In this paper we
+Experiments
+traditional
+technique
+some
+much
+make
+local
+is proposed
+computer
+computational
+best
+based on the
+robustness
+obtained
+information retrieval
+improves
+efficient
+disambiguation
+building
+approach ]] to
+acoustic
+>> can be
+were
+temporal
+problem of
+object
+boosting
+, i.e
+the same
+spoken language
+selection
+ranking
+processes
+output
+most
+form
+baseline
+ambiguity
+, but
+shape
+resolution
+representations
+performs
+decision
+For
+prior
+evaluated
+estimate
+errors
+dialogue
+construction
+as well as
+]] in the
+which are
+tree
+speech recognition
+signals
+higher
+background
+under
+trained on
+tagging
+sets
+network
+in which
+given
+dependency
+built
+We also
+where
+user
+previous
+have been
+general
+cues
+applied to
+<< approach
+, e.g
+via
+various
+types
+transfer
+tracking
+those
+noise
+improve
+description
+described
+components
+approach to
+a set of
+Language
+>> , which
+related
+possible
+important
+further
+by using
+CSR
+; and
+type of
+summarization
+sequence
+segment
+probabilistic
+joint
+]] or
+We propose a
+word alignment
+within
+will be
+training data
+through
+showing
+show how
+provides
+interpretation
+in an
+design
+conventional
+achieves
+Chinese
+Although
+<< statistical
+specific
+parallel
+it is
+geometric
+dataset
+database
+computer vision
+block
+a variety of
+a single
+<< word
+, including
+question
+parse
+parameter
+highly
+grammatical
+function
+dynamic
+content
+any
+]] , which
+This paper proposes a
+This paper presents an
+Model
+way
+suitable
+practical
+objective
+flow
+example
+compared
+classifier
+applying
+alternative
+WordNet
+-LRB- e.g
+-LRB- 2 -RRB
+vocabulary
+they
+texts
+scheme
+relevant
+reduction
+point
+makes
+current
+conversational
+common
+both the
+acquisition
+vector
+to provide
+the use of
+than the
+test
+tensor
+speed
+solution
+language model
+key
+entailment
+can be used to
+a more
+a large
+[[ speech
+SMT
+It is
+<< it
+word segmentation
+types of
+trees
+to achieve
+target
+supervised
+similar
+require
+recent
+procedure
+lexicon
+grammars
+development
+constraint
+base
+apply
+amount of
+action
+This paper describes
+the best
+successfully
+source
+reported
+properties
+obtain
+monolingual
+method for
+mapping
+little
+integration
+give
+geometry
+factors
+effective
+cameras
+being
+WSD
+Furthermore
+works
+word sense disambiguation
+transcription
+the other
+tested
+score
+over the
+outperform
+on both
+names
+measure
+manual
+large-scale
+intrinsic
+internal
+extracted from
+expressions
+define
+core
+challenging
+camera
+The experimental results
+BLEU
+ASR
+<< semantic
+yields
+them
+that is based on
+subcategorization
+recall
+perform
+out
+often
+of speech
+non-rigid
+modules
+metrics
+matching
+map
+into the
+gives
+generate
+evaluating
+dominant
+derived
+conceptual
+color
+class
+capture
+better than
+as an
+allows
+a particular
+[[ approach ]] to
+videos
+useful
+train
+tool
+the most
+suitable for
+sublanguage
+spatial
+semantics
+reconstruction
+outputs
+natural language processing
+locations
+involves
+incorporates
+from an
+examples
+effort
+efficiency
+character
+between the
+available
+and text
+additional
+acts
+However
+written
+which combines
+we have
+usually
+that combines
+super-resolution
+sequences
+resources
+reliable
+qualitative
+purpose
+produces
+morphology
+low
+limited
+indexing
+hidden
+field
+extensive
+evidence
+dictionaries
+developed for
+descriptions
+corresponding
+conditions
+classes
+across
+accurate
+While
+These
+Specifically
+Czech
+By
+Arabic
+-LRB- 1 -RRB
+, or
+unknown
+tools
+scale
+relation
+positive
+pattern
+of its
+model -LRB
+level of
+how the
+frequency
+fine-grained
+estimated
+either
+distribution
+developing
+combination of
+at the
+An
+>> in a
+verb
+transformations
+support
+such a
+rich
+requires
+reference
+promising
+positions
+phrases
+parts
+on-line
+minimization
+may
+main
+inference
+independent
+improved
+hybrid
+good
+generative
+generated
+functions
+filtering
+extracting
+expected
+empirical
+distance
+density
+belief propagation
+basis
+analysis and
+agreement
+Using
+IR
+Ant-Q
+whether
+web
+viewpoint
+view
+that can
+texture
+stemmer
+segments
+reverberation
+probabilities
+obtained from
+multimodal
+model for
+metric
+language models
+known
+kernel
+introduced
+identifying
+hierarchical
+extraction of
+estimation of
+equivalence
+edges
+due to
+discriminative
+definition
+decoding
+compact
+case
+are described
+architecture
+and their
+accuracy of
+The paper
+NE
+Finally
+would
+which uses
+variation
+units
+the following
+that it
+surface
+strong
+strategy
+representation of
+relationships
+recovery
+real-time
+phrase
+nature
+mechanism
+leads to
+includes
+in both
+identified
+few
+family
+facial
+exploits
+demonstrates
+criterion
+contains
+complexity
+classification and
+changes
+benchmark
+article
+appearance
+analysis of
+With
+PAKTUS
+NIST
+Markov
+Japanese
+First
+<< image
+, showing
+unification
+transcriptions
+the first
+sufficient
+sentiment
+second
+rather than
+of training
+obtained by
+methodology
+layers
+labeling
+knowledge-based
+individual
+improvement of
+highlight
+fully
+extended
+extend
+easily
+during
+depth
+construction of
+combine
+challenge
+advantages of
+adaptive
+[[ parsing
+PTZ cameras
+IBM
+Given
+Gaussian mixture
+BN
+<< It
+ways
+typical
+topic
+to construct
+sources
+singer
+pronouns
+program
+primarily
+previously
+powerful
+more than
+lighting
+keywords
+it to
+interaction
+instead of
+induction
+greatly
+generalization
+frames
+focus on
+flexible
+explanation
+equivalent
+does not
+complete
+certain
+category
+automated
+arguments
+appropriate
+alone
+]] for the
+VC
+The method
+IE
+Dutch
+, we find that
+verbs
+to perform
+therefore
+the training
+that are
+technology
+synthesis
+structured
+sound
+sequential
+robustly
+registration
+reduced
+questions
+question answering
+provided by
+phrase-based
+performing
+people
+patches
+outliers
+online
+on several
+nonlinear
+log-linear
+less
+intensity
+increasingly
+in addition to
+heuristics
+fewer
+faster
+external
+extension
+experiment
+engine
+dormant independencies
+direct
+defined
+complementary
+comparison
+clusters
+citation
+beyond
+answers
+Through
+This study
+Theory
+SVC
+SRDA
+POS
+Each
+Although the
+<< human
+-LRB- iii -RRB
+% in
+used in a
+success
+style
+studied
+structure of
+specialized
+shading
+semi-supervised
+required
+regression
+process of
+probability
+priors
+principles
+orientation
+of words
+observed
+method is
+literature
+instance
+initial
+information extraction
+incorporate
+incomplete
+illumination
+final
+feature vectors
+extract
+experience
+events
+et al
+ensemble
+effects
+distributed
+diagrams
+consistent
+considered
+candidates
+annotations
+and large
+against
+a state-of-the-art
+We also show that
+The << method
+SHORTSTR2
+Many
+Experiments with
+whose
+while preserving
+treebank
+to compute
+theoretical
+surveillance
+semantic distance
+pose
+planning
+paraphrase
+original
+occurring
+logic
+kinds of
+interfaces
+induced
+graph cuts
+filter
+eventually
+estimates
+domain independent
+document
+differential
+derivation
+dense
+deep
+data-driven
+converted singing voice
+consistency
+collected
+answer
+among
+alignments
+adequate
+The results
+Stochastic
+Model -LRB
+A method
+, thus
+word vectors
+while maintaining
+utilizing
+utilizes
+users
+upon
+unification-based
+tests
+term
+telephone
+suggest
+subtitles
+software
+relationship
+real-world
+physical
+on the basis of
+occlusion
+nouns
+noisy
+investigate the
+in-domain
+if
+generating
+generates
+formulation
+evaluations
+employed
+done
+distributions
+dimensional
+dialog
+deterministic
+data structure
+coverage
+corpus-based
+copying
+context-free
+containing
+connectionist
+categories
+captured
+builds
+blogs
+between two
+assumptions
+assessment
+animation
+The use of
+Since
+Bayes
+After
+yield
+working
+variance
+uniform
+translation lexicons
+tasks of
+tag
+subspace
+submitted
+speed up
+solve
+simulated
+signal
+shallow
+segmentations
+rankings
+range of
+quantitative
+prove
+points
+optimal
+not only
+noise and reverberation
+manner
+manifold
+larger
+introducing
+inspired by
+indicate that
+incorporating
+in the form of
+heuristic
+hand
+formal
+features and
+extensions
+exploit
+expanded
+employing
+dynamical
+discrete
+determine
+corpus of
+convex
+consisting of
+concept
+computed
+comparing
+coherence
+calibrated
+by means of
+board
+block bigram
+approximation
+ambiguous
+allowing
+activity
+according to
+We tested
+The proposed
+The experimental results show that
+TREC
+SmartKom
+SVRG
+SVM
+Previous
+POURPRE
+One
+MWEs
+LCS
+I
+French
+F-measure
+Based on the
+Automatic Speech Recognition
+>> at
+<< stochastic
+% improvement
+velocities
+variations
+turns
+transport
+translations
+tracker
+towards
+to obtain
+to facilitate
+textual
+templates
+take
+summary
+stable
+speech processes were identified
+smaller
+size
+sequence of
+semantically
+sampling
+run
+robust to
+reveals
+report
+remains
+relationships between
+recent advances in
+projections
+project
+preliminary
+pos
+optimized
+negative
+moving
+modeled by
+manually
+lower
+learners
+kind
+investigated
+into account
+interactions
+hypothesis
+hypotheses
+hardware
+goal
+gesture
+frequency components
+for example
+errors in
+enhancing
+electronic
+efficiently
+do
+declarative
+correspondence
+correlation
+control
+concepts
+communication
+coherent
+class of
+capability
+automatic extraction of
+aspects of
+are not
+arbitrary
+answering agents
+anaphoric
+anaphora
+aligned wordnets
+after
+absolute
+a small set of
+We develop Wallflower
+Unlike
+TIPSTER
+Our results
+Network
+Named Entity
+LNMF
+Hessian
+HMMs
+Currently
+Bikel
+As
+AS
+<< temporal
+: 1 -RRB
+2004
+with relatively
+weights
+visual content
+verification
+tokens
+together
+to the problem of
+the usefulness of
+the Canadian Hansards -RRB
+that mimics the
+that includes
+synthesizing
+syntax
+supported by
+strongly
+stochastic gradients
+still
+sparsity
+simultaneously
+sets of
+separation
+scenario
+risk
+rigid
+revision
+restricted
+reestimation
+redundant
+reading
+read
+rarely
+proficiency
+preprocessing
+popular
+pixel
+people 's trajectories
+penalty
+pass
+parsed
+overall
+now
+non-terminal
+n-gram statistics
+multilingual
+motor
+module
+mismatch
+mechanisms
+mean
+links
+learns
+latent
+languages in the
+interference
+interface
+increasing
+high-dimensional
+graphs
+gradient
+give a
+generalization ability
+gender
+frame
+fitting
+finds
+feedback
+feature-based
+feasible
+fast
+face image
+explicit
+equally
+enhances
+enables
+eliminates
+documents
+discussions
+discrimination
+diagram
+developments
+desirable
+decoder
+data collection
+crowd
+criteria
+constructed
+conducted
+conditional
+commands
+chart
+character level
+changing
+ccg
+caption
+broad
+binary
+behavior
+areas of
+approximate
+a high
+We show how
+We argue
+Such
+Moreover
+MINPATH
+Information
+Inference
+In this paper we formulate
+ILIMP
+GMM
+English-Chinese
+Communication
+CFG
+AdaBoost
+APT
+, which recognizes
+, leads to
+yet
+writing
+wordspotter
+widely used
+voice editing and indexing
+vibrations
+very low
+variable
+variability
+up to
+unobserved
+unit
+underspecified
+translated TED talks
+transform
+trackers
+to process
+the output of
+the correct
+that allows
+textures
+text-image editor
+tenses
+taxonomic similarity
+synchronous
+studies
+strategies
+story-telling
+starting
+spatio-temporal
+song
+shared
+series of
+sense-tagged
+semi-supervised learning
+self-occlusion
+richer
+reverberant environments
+resolving
+requiring
+reasonable
+real-life trials
+rate of
+quadratic
+proposals
+priority-based message scheduling
+posed
+plan
+physiology
+phrasal
+perceptual sounds
+part of speech
+paradigm
+optimizing
+optimization scheme
+operations
+operational
+operation
+operates on
+online news
+ones
+offering
+of diagrams
+obtained from Czech WordNet
+normal-aware lighting difference
+non-sequential
+multi-strategy
+multi-modal
+morphological
+mobile
+measurement
+measurable signals
+meaningful
+mathematical
+low-resolution
+logical definition
+list of
+linearly
+lexicalized
+learning phase
+large-scale knowledge base
+involving
+intra-class
+interpolation
+interesting
+inter-frame lip motion
+intended
+instances
+inpainting
+informing
+in IR
+implements
+image sequence
+identification of non-local depenencies
+ideas
+idea
+hyperplane
+homographies
+handling
+growth
+grouping
+ground truth
+genres
+from electrolaryngeal speech
+from NAM to
+frequently
+fragment
+for predicting top-level boundaries
+for predicting subtopic boundaries
+fish twisting
+finite-state
+finding
+filters
+fact
+expression
+exploited
+experimentally
+exact
+enhance
+end
+encyclopedias
+elegant
+dynamic label pruning
+dual
+domain-independent
+discussing
+discover
+digital
+differs
+dictionary-based
+detailed
+depression prediction
+degrees of
+currently
+correspondences
+correlate
+cooccurrence-based
+conjunctions
+confidence
+comparisons
+collocations
+coder
+classical
+classes of
+claim
+cascade
+candidates for
+camera geometry correction flow
+bus
+bundle adjustment
+briefly
+asymmetric
+as well as less
+are usually
+appear
+another
+animated GIFs
+and motion
+and implemented
+and extract
+ambient sound
+aim
+adopting
+adapted
+access to
+abstracts
+a whispered voice and
+We present a general
+We first
+We describe the use of
+We compare two
+WSI
+UCG
+Turkish
+To further
+This system
+This is
+The performance of
+The compact description of
+TSP
+System -LRB
+SVMs
+SAE
+Results
+QA
+Performance
+Over
+On
+Neural
+Low Resource Languages
+LSA-based
+Instead of performing
+In such
+Hilbert
+German
+Furthermore , we introduce
+Form-Oriented Dictionary Description
+FKT
+Discourse
+An alternative index could be
+ASR errors
+5
+-LSB- 12 -RSB- , and
+-LRB- c -RRB
+'' and
+'' -RRB
+works satisfactorily on challenging
+word-lemma
+were added to support
+well-defined
+voting
+vocoder
+vital
+varying
+valuable
+updates
+unsuper-vised induction
+unifying
+unannotated text
+ultra-wide
+typing-algorithm
+type-unification
+times and numerical quantities
+theory
+texture and
+temporal and
+taken
+systemic
+syntax-based
+syntactically
+symmetric
+superordinate
+suggests that
+substantially
+subspaces
+structural
+strategies to
+straight
+statistically
+speed-up
+speakers
+source-separated musical notes
+solutions
+social
+so as
+smoothness
+simulation
+shortcuts
+settings
+sentences < 40 words -RRB
+segment order
+search engines
+scalability
+routing
+rise to
+right-side
+rhythm
+rhyming lyrics
+resource sensitive logic
+reranking
+require large
+represented
+reliably
+referring expressions
+raw
+purposes
+providing
+propositional
+property
+prepared
+posterior
+pipeline
+phonetic transcriptions
+performance of 86.6 % -LRB
+particles
+partial
+parsing-as-deduction
+optimum
+operating
+one sense per collocation observation
+of author and title corruption
+ocean waves
+nonstationary chaos
+no
+never
+need
+nearest neighbor
+name
+mutual
+motivation for
+more efficient
+model-based
+model testing
+modal
+missing
+medical
+meaning equivalence
+matrix
+lyrics in music
+loss
+look
+line
+likely
+leverage
+length
+lemmatization
+leading
+knowledge-based and random selection procedures
+issue
+intermediate
+inter-annotator
+intelligent environments
+input to
+inherent
+incremental description refinement
+include
+in Chinese
+imagery
+im2gps
+identifies
+human-computer interaction
+history
+hip hop lyrics
+hand-produced sets
+groups
+grid
+greater
+graphic
+grammaticality
+good at
+go
+generic qualitative
+gave a
+from which
+free word order
+frameworks
+formalism
+flexibility
+fixed
+fit
+feature function
+facilitates
+facial displays
+extremely
+extraneous edges
+extent
+explicitly
+even
+equivalence in meaning
+enhanced
+either by
+effectively extracts
+durations
+dramatically
+divergence
+distribution of speech and NSI
+distinguishing
+display
+discussed
+developers
+determination
+despite
+descriptors
+describing
+dependents
+densities
+demonstrator
+demonstration
+demonstrate its
+crowdsourcing
+cross-domain
+created using extensive
+counterparts
+costs
+correcting real-word spelling errors
+controls
+conjugate priors
+compression ratio
+complicated
+competing
+communicative
+combining
+cognitive psychology
+co-occurrence
+cluster
+classifying
+chords
+checker
+capable of
+candidate
+bound
+bottom-up
+blob-tokens
+bispectrum domain -LRB- BISDR -RRB
+bag-of-words
+automaton
+attempts
+arm
+area
+ant
+and verbs
+and limitations of
+and empirically
+and detection phases
+and depth
+and 84.6 % respectively for
+an improved
+an extended
+amounts
+ambiguity in
+aims to
+adding
+actual
+We trained
+We further show
+We consider
+We conclude
+We build
+We attack an inexplicably
+We address the problem of
+Verma
+VSM
+USR
+Two
+Tumblr
+Trost
+To validate our method
+This paper proposes a practical
+The suggested
+The recognizer makes use of
+The paper also
+The basic
+Thai key prediction
+Slavic language
+Several
+Second , we show
+San Francisco
+SDT
+Representing images with layers
+Recently
+RCC-8
+PCA
+P-CFG
+P
+Or
+NMF
+NL
+Motivated by the
+Motion
+Montague semantics
+MediaEval2010
+Machine Translation
+MPT
+Lagrangian
+LTAG
+LT
+LPC
+LIMSI
+Kukich
+Kernel
+Image
+IA
+HPSG
+HMM-based chunk tagger
+HMHH
+HBG
+GPSG
+For solving this problem
+Flickr30K
+Finite
+Existing
+During
+DSP
+Calculus
+Bulgarian
+BN model parameters
+AVS
+A second
+; 4 -RRB
+: slightly superior to
+8
+1998
+1991
+-LRB- yielding a treatment of
+-LRB- i -RRB- their
+-- via completely
+, which is comparable to
+% relative

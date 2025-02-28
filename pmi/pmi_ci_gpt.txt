@@ -1,0 +1,1432 @@
+and
+the
+of
+et al
+a
+to
+0
+in
+is
+for
+as
+on
+that
+1
+by
+5
+are
+with
+of the
+The
+be
+an
+been
+we
+which
+has
+or
+from
+have
+in the
+this
+used
+work
+using
+such
+can
+use
+system
+on the
+, we
+our
+model
+language
+2002
+1996
+In
+to the
+such as
+not
+information
+translation
+, which
+it
+We
+also
+1999
+learning
+e.g
+between
+approach
+word
+has been
+systems
+can be
+grammar
+example
+corpus
+This
+lexical
+2
+4
+as a
+Collins
+more
+semantic
+based
+have been
+text
+For
+, 2001
+features
+( e.g
+1993
+was
+3
+based on
+words
+of a
+â
+syntactic
+most
+set
+other
+at
+approaches
+number
+'s
+similar
+results
+each
+, 1999
+some
+proposed
+models
+2005
+data
+A
+rules
+2000
+1997
+1990
+training
+these
+one
+number of
+1995
+described
+1994
+previous
+parsing
+methods
+structure
+method
+analysis
+two
+to be
+their
+statistical
+research
+feature
+1998
+only
+for the
+from the
+different
+algorithm
+use of
+sentences
+into
+in a
+several
+2003
+1992
+than
+by the
+, 1997
+see
+parser
+is a
+is the
+as the
+where
+recent
+linguistic
+techniques
+problem
+knowledge
+2004
+tasks
+speech
+over
+many
+for example
+they
+evaluation
+but
+, 1998
+with the
+et al. , 2000
+document
+all
+English
+1989
+sentence
+et al. , 1999
+dialogue
+, 2000
+( 1997
+the same
+resolution
+documents
+those
+( 2002
+( 2000
+parse
+, 2003
+( 2007
+work on
+using the
+tree
+that the
+terms
+NLP
+, such as
+similar to
+reported
+parsers
+natural
+made
+experiments
+developed
+, 2004
+then
+recognition
+morphological
+its
+include
+automatic
+Brown
+representation
+generation
+coreference
+It
+phrase
+found
+described in
+as in
+( 2008
+were
+used in
+first
+current
+POS
+Our
+Other
+very
+the use of
+set of
+process
+out
+like
+grammars
+et al. , 2006
+et al. , 2005
+classification
+because
+HPSG
+, but
+( 1994
+types
+task
+automatically
+with a
+well
+use the
+tag
+similarity
+on a
+natural language
+lexical rules
+extraction
+et al. , 2002
+applications
+Some
+may
+input
+full
+et al. , 2010
+context
+both
+available
+at the
+For example
+As
+Arabic
+, where
+( 2001
+will
+version
+trees
+the most
+standard
+retrieval
+processing
+phrases
+cfXXX
+To
+, 1994
+( 2009
+( 2006
+sets
+previous work
+paper
+lexicon
+large
+it is
+including
+best
+based on the
+a number of
+Nivre
+Brill
+( 2003
+( 1998
+while
+when
+performance
+employed
+domain
+dictionary
+applied
+about
+, 1991
+Â
+uses
+since
+relations
+recently
+framework
+form
+examples
+Lee
+1980
+, which is
+( 1993
+( 1983
+verbs
+types of
+tagging
+student
+significant
+relation
+provide
+no
+measure
+how
+have been proposed
+general
+disambiguation
+between the
+annotation
+1983
+, 1995
+would
+within
+trained
+sense
+role
+question
+part
+others
+much
+languages
+is not
+given
+entries
+description
+( 2004
+web
+tools
+test
+size
+simple
+resources
+related
+particular
+pairs
+or the
+obtained
+noun
+instance
+implemented
+idea
+head
+good
+could
+coreference resolution
+computational
+by a
+better
+approach to
+acquisition
+Treebank
+This is
+Grammar
+1988
+, we use
+( 2010
+version of
+verb
+using a
+probabilistic
+possible
+performed
+often
+level
+further
+for a
+do not
+defined
+case
+algorithms
+above
+It is
+, 1993
+( cfXXX
+various
+them
+technique
+studies
+source
+search
+properties
+over the
+our previous work
+inspired by
+includes
+in which
+frequency
+focus
+few
+evidence
+error rate
+certain
+cases
+approaches to
+alignment
+( see
+whether
+three
+texts
+such as the
+shallow
+rule
+researchers
+make
+likelihood
+length
+joint
+interest in
+inference
+high
+from a
+decision
+consider
+comparison
+accuracy
+Table
+Section
+MT
+Chinese
+, since
+( i.e
+( 1995
+used for
+use a
+up
+theory
+summarization
+structures
+sophisticated
+small
+should
+prosodic
+progress
+previously
+linguistics
+in terms of
+if
+et al. , 2012
+components
+can be used to
+built
+arguments
+are not
+These
+Pereira
+However
+1987
+1979
+verbal
+the best
+representations
+proposed by
+modeling
+methods for
+meaning
+literature
+line
+human
+here
+grammatical
+for each
+discussed
+development
+corpora
+component
+called
+and Jurafsky
+already
+Reiter
+Most
+Lexical
+Koehn
+Hovy
+Following
+E
+Dalrymple
+values
+used by
+that is
+subcategorization
+quite
+questions
+proposals
+presented
+patterns
+parallel
+original
+of each
+name
+metric
+is also
+introduced
+extracted
+either
+discourse
+directly
+dependency
+application
+annotated
+agreement
+advances in
+Strube
+Mikheev
+McDonald
+German
+Dagan
+Although
+, while
+, including
+( 1987
+( 1980
+transformation
+time
+theories
+the results
+study
+structural
+space
+sources
+response
+research on
+promising
+probability
+probabilities
+of our
+notion of
+new
+multilingual
+medical
+may be
+in our
+generated
+formal
+follow
+find
+existing
+even
+employ
+consists of
+concepts
+classifier
+class
+category
+are based on
+and Marcus
+and Collins
+anaphora
+Vijay-Shanker
+NP
+More
+Meurers
+McCallum
+Jensen
+Alshawi
+1978
+weighted
+via
+van
+unsupervised
+translations
+training data
+the model
+that are
+reported in
+provides
+perform
+optimization
+observed
+objects
+measures
+lists
+information from
+in an
+important
+hypothesis
+future
+function
+finite
+extract
+expressions
+explicit
+experiment
+efficient
+early
+distributional
+descriptions
+constraints
+constraint
+computing
+complex
+classes
+chosen
+bilingual
+below
+as well as
+as an
+WordNet
+T
+Resnik
+One
+Boguraev
+Another
+A number of
+8
+, i.e
+, 2010
+, 1985
+works
+wide
+we have
+vague
+through
+the first
+target
+take
+suggested
+strategy
+so
+selection
+result
+represented
+reordering
+rely on
+question answering
+present
+prediction
+point
+performs
+partial
+one of the
+of these
+need
+might
+mention
+is more
+induction
+functions
+functional
+frames
+done
+distance
+discussion
+detailed
+created
+computed
+common
+at least
+association
+apply
+and then
+and Manning
+access
+abstracts
+about the
+Web
+Such
+Model
+LFG
+Green
+Copestake
+Black
+An
+1976
+, 1990
+( Chen and
+usually
+type
+the number of
+the current
+surface
+successfully
+studied
+specifically
+specific
+sequence
+semantics
+score
+relevant
+raw
+prosody
+program
+precision
+part of the
+ones
+monolingual
+model of
+methodology
+linguists
+lexical entries
+is an
+implementation of
+elements
+direct
+derived
+derivation
+complete
+compared
+classifiers
+chunking
+can be found in
+attention
+any
+among
+across
+While
+Weischedel and
+Thus
+The system
+NLG
+Many
+In our
+( Nivre
+( 1996
+( 1976
+without
+within the
+variety of
+user
+units
+typical
+to our
+to identify
+to develop
+tested
+run
+root
+responses
+reference
+received
+query
+prior
+predicate
+people
+multiple
+mainly
+logical
+linguistic knowledge
+limited
+labeled
+frame
+forms
+extended
+easily
+designed
+dependencies
+criterion
+counts
+considered
+clauses
+being
+attempts to
+aspects of
+allows
+against
+adjectives
+We use the
+Since
+SC
+Pacak
+Natural Language
+In the
+IBM
+Hahn
+HMM
+French
+Chomsky
+Bayesian
+Appelt
+Allen
+10
+( 1989
+would be
+weights
+we will
+using an
+topic
+the fact that
+the above
+than the
+shows
+semantic role
+selected
+reranking
+reader
+rather than
+proper
+procedure
+problems
+predicted
+positive
+perceptual
+parse trees
+paragraph
+output
+on this
+object
+nouns
+norms
+motivated
+minimum
+method is
+mapping
+manually
+location
+local
+items
+initial
+information extraction
+inflectional features
+individual
+in different
+implemented in
+identification
+grounded
+generally
+generalized
+findings
+extent
+experimental
+et al. , 1991
+earlier
+difficult
+de
+database
+could be
+corrected
+clustering
+categories
+binary
+base
+automation
+another
+and Strube
+act
+a set of
+This approach
+TBL
+Oliva
+NE
+Mohri
+Liberman
+LTAG
+King
+Information
+Hockenmaier
+Hobbs
+Goldberg and
+For instance
+Elhadad
+Demner-Fushman
+CATiB
+But
+Briscoe
+Baldwin
+6
+11
+, 1987
+, 1983
+( Wu
+'' of
+widely
+version of the
+us
+unlabeled
+turn
+the arguments
+that this
+textual
+text categorization
+term
+taking
+tag set
+tackled
+synthesis
+subset
+step
+state-of-the-art
+specified
+sometimes
+significantly
+showed
+should be
+semantic representation
+segmentation
+scores
+scheme
+resolvers
+required
+relative
+relatedness
+regexp
+referred to
+recognizer
+r
+queries
+prosodic phrasing
+propose
+principles
+principle
+priming
+planner
+person
+path
+pair
+own
+operate
+on the WSJ
+negative
+models for
+maximum entropy
+manner
+makes
+loss
+long
+larger
+language model
+interaction
+instead
+improvement
+image
+history-based
+having
+generative
+fully
+for many
+focused
+flexible
+factors
+extracting
+explicitly
+expectation
+exact
+events
+evaluated
+distribution
+discussed in
+dictionaries
+developed by
+details
+describes
+contains
+consistent
+clusters
+associations
+associated
+around
+argument
+argued
+area
+and its
+and Tsujii
+and Charniak
+additional
+accurate
+a certain
+Xia
+Wikipedia
+Wiebe
+Thompson
+Tetreault
+Sidner
+Sarkar
+Sanfilippo
+SMT
+Riley
+R
+Ngai
+Latent
+Kennedy
+Joachims
+In most
+Hasan
+H
+Gerdemann
+Ganchev
+GRE
+From
+Flickinger
+Fillmore
+Extraction
+Diab
+Czech
+Carter
+Carl
+Biermann
+Basili et al
+; see
+1998a
+12
+, Way
+( Koehn
+worse
+working
+words are
+whose
+whereas
+well-known
+uses a
+users
+unification
+typically
+treebank
+transducers
+train
+toolkit
+to provide
+to other
+to generate
+templates
+technologies
+tasks such as
+successful
+stemmers
+statistic
+statements
+split
+software
+smaller
+simply
+side
+sequences
+seen
+seems
+resource
+require
+relied on
+regular
+re-ranking
+promising results in
+projects
+predicates
+potential
+play
+plan
+place
+physicians
+phenomena
+phase
+ours
+oriented
+on how to
+of linguistic
+of discourse
+must
+multimodal
+module
+low
+lexical rule
+less
+latent
+large-scale
+key
+kernel
+it was
+interesting
+include the
+in this paper
+improving
+improved
+importance
+identified
+ideas
+help-desk
+has been previously
+greater
+graph
+future work
+frequencies
+free
+formalism
+field
+et al. , 1995
+et al. ( 2003
+equivalent
+effective
+domains
+discriminative
+direction
+dialogue systems
+detection
+defining
+decision tree
+coverage
+corpus linguistics
+core
+context-free
+content
+considerable
+complement
+comparable to
+communication
+commonly
+collected
+choose
+candidate
+building
+beyond
+author
+attempt to
+as described by
+architecture
+answers
+annotations
+and Hatzivassiloglou
+and Callison-Burch
+and Brill
+analyzing
+ambiguity
+adjective
+active
+abstract
+With
+Webber
+Using the
+They
+Sproat
+Simov
+Shaw
+See
+Search
+Schank
+Schabes
+Sch Â
+Russell
+Recently
+Phrase Structure Grammar ( HPSG
+POS tags
+NPs
+Models
+Miyao
+Minnen
+Michiels
+MaltParser
+Malouf
+Machine
+Linguistic
+Kehler
+Jackendoff
+Hidden Markov
+Hale
+Grosjean
+Granger
+Fung
+B
+Another line of research
+ACE
+1997 ; Mitkov
+.4
+) tree
+( Mann
+( Dagan and
+% error rate
+ways
+was performed
+vs
+visual
+view
+via the
+very large
+vector
+value
+vague descriptions
+v
+upon
+true
+tried
+translate
+traditional
+tokens
+to reduce
+to produce a
+ti
+therefore
+techniques for
+surrounding
+supervised
+suggests
+subjects
+strong
+steps
+spoken
+special
+speaker
+source of
+slightly
+simpler
+significance
+showing that
+sharing
+share
+segments
+second
+revised
+represents
+report
+relationships
+references
+reason
+real
+rationality
+provides a
+provided
+programming
+product
+produced
+predictive
+popular
+points
+phrase-based
+phrasal
+passing
+part-of-speech
+parse tree
+paraphrase
+overview
+ontology
+one can
+offer
+of paraphrases
+occur
+obtain
+o
+news
+namely
+n-grams
+n-gram
+n
+much more
+morphology
+more general
+modified
+minimal
+merging
+mentioned
+maximum likelihood estimation
+marker lexicon
+mapped
+manual
+logic
+lexicons
+language models
+labels
+kappa
+itself
+issues
+is given
+insights
+initiative
+indeed
+incrementality
+in various
+in other
+implements
+identical
+i
+higher
+heuristics
+heuristic
+handling
+great
+gold
+generating
+foundation
+formbased
+finite-state
+finite state
+feedback
+far
+external
+extend
+explored
+exploited
+expected
+exists
+exceptions
+event
+evaluate
+entire
+engines
+encoding
+employs
+efforts have
+efficiently
+efficiency
+does
+distributed
+developed a
+determining
+derivational
+dependency parsing
+decompose
+decoding
+data sets
+cues
+correspondence
+correct
+corpus-based
+contextual
+contexts
+containing
+constituent
+conditioning
+conditional
+combining
+coefficient
+code
+cm
+care
+can be used to improve
+basic
+baseline
+background
+b
+availability of
+attachment
+at least for
+assumed
+as follows
+approaches include
+approaches for
+answer
+and/or
+and their
+and Yarowsky
+and Soffer 2000
+and Resnik
+and Hirst
+an NP
+always
+allow
+adopted
+acquire
+Zhu
+Williams
+Wallace
+Voorhees
+There are
+Text
+Table 1
+Steyvers
+Some methods
+Similar
+Ratnaparkhi ( 1997
+Pereira and
+Pedersen
+PATR-II
+Olive
+O
+Note
+Niyogi
+Nilsson
+Nguyen
+Nederhof
+National
+Much
+Mori
+More recently
+Mittal
+Magerman ( 1995
+Macklovitch
+MEDLINE
+Levin
+Lapalme and Kosseim
+Kulick , Gabbard
+Krahmer and Theune
+Johns and Jones
+Jiang and
+Hirschberg
+Hinrichs and Nakazawa
+Hillard
+He
+Harabagiu and Maiorano
+Gurevych
+Grishman
+Garrette
+Gaizauskas
+Functional
+Frederking
+FSTs
+Engine
+Emele
+EM
+Dependency
+Dale and
+Computational Linguistics
+Collins ( 1997
+Cohen 's
+Chu-Carroll
+Carmel , Shtalhaim
+Brill 's
+Blum and
+Based
+BLEU
+Alkuhlani and Habash
+Akkerman
+A more
+; â
+2012b
+2012a
+2004b
+1965
+100
+02
+.3
+( van
+( Yang and
+( Lewis
+( 1988
+'s estimator
+'' facility
