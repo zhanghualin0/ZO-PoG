@@ -35,14 +35,17 @@ from models.modeling_cpt import CPTForMaskedLM
 from models.modeling_llama3 import LlamaForCausalLM
 from utils import hinge_loss
 from sklearn.metrics import accuracy_score, f1_score, precision_score, recall_score, matthews_corrcoef, roc_auc_score
-from fastNLP.core.metrics import MetricBase
+from fastNLP.core.metrics import Metric as MetricBase
 from common import LABEL2ID_CONFIG, Imbalanced_Metric
 from modelscope import snapshot_download
 
 class Metric(MetricBase):
     def __init__(self, tokenizer, label_map, pred=None, target=None, seq_len=None):
         super().__init__()
-        self._init_param_map(pred=pred, target=target, seq_len=seq_len)
+        # Initialize parameter mapping manually since _init_param_map doesn't exist in fastNLP 1.0.1
+        self.pred = pred
+        self.target = target
+        self.seq_len = seq_len
         self._pred = []
         self._target = []
         self.hinge = 0.0
